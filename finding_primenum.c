@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 void main()
 {
     // prime no is a num greater than 1 and which cant be multiplied by any other num
